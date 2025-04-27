@@ -19,7 +19,7 @@
     "playwright": "^1.52.0",
     "supertest": "^7.1.0",
     "ts-jest": "^29.3.2",
-    "turbo": "^1.12.4"
+    "turbo": "^2.5.2"
   },
   "packageManager": "npm@10.9.2"
 }
