@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "signup": "S'inscrire"
+  },
+  "hero": {
+    "title": "Conformité Simplifiée pour les Entreprises Monégasques",
+    "subtitle": "Répondez à vos obligations de lutte contre le blanchiment d'argent et de signature électronique avec notre plateforme complète",
+    "cta": {
+      "primary": "Commencer",
+      "secondary": "Contacter les Ventes"
+    }
+  },
+  "features": {
+    "title": "Solutions Complètes de Conformité",
+    "aml": {
+      "title": "Conformité AML",
+      "description": "Vérifications automatisées contre les listes de sanctions internationales et les bases de données PEP"
+    },
+    "signature": {
+      "title": "Signature Électronique",
+      "description": "Signatures électroniques sécurisées conformes aux réglementations monégasques"
+    },
+    "be": {
+      "title": "Bénéficiaires Effectifs",
+      "description": "Vérification et déclaration simplifiées des bénéficiaires effectifs"
+    }
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Choisissez le forfait adapté à votre entreprise",
+    "cta": "Essai Gratuit"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est là pour vous aider",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "company": "Entreprise",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "description": "Solutions complètes de conformité pour les entreprises monégasques",
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "company": "Entreprise",
+    "about": "À Propos",
+    "contact": "Contact",
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "rights": "Tous droits réservés."
+  }
+} 

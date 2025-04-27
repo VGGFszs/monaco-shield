@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "contact": "Contatti",
+    "signup": "Registrati"
+  },
+  "hero": {
+    "title": "Conformità Semplificata per le Aziende Monegasche",
+    "subtitle": "Soddisfa i tuoi obblighi di antiriciclaggio e firma elettronica con la nostra piattaforma completa",
+    "cta": {
+      "primary": "Inizia Ora",
+      "secondary": "Contatta Vendite"
+    }
+  },
+  "features": {
+    "title": "Soluzioni Complete di Conformità",
+    "aml": {
+      "title": "Conformità AML",
+      "description": "Controlli automatizzati contro le liste di sanzioni internazionali e database PEP"
+    },
+    "signature": {
+      "title": "Firma Elettronica",
+      "description": "Firme elettroniche sicure conformi alle normative monegasche"
+    },
+    "be": {
+      "title": "Beneficiari Effettivi",
+      "description": "Verifica e segnalazione semplificate dei beneficiari effettivi"
+    }
+  },
+  "pricing": {
+    "title": "Prezzi Semplici e Trasparenti",
+    "subtitle": "Scegli il piano adatto alla tua azienda",
+    "cta": "Prova Gratuita"
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Il nostro team è qui per aiutarti",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "company": "Azienda",
+      "message": "Messaggio",
+      "submit": "Invia Messaggio"
+    }
+  },
+  "footer": {
+    "description": "Soluzioni complete di conformità per le aziende monegasche",
+    "product": "Prodotto",
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "company": "Azienda",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "legal": "Legale",
+    "privacy": "Privacy",
+    "terms": "Termini di Servizio",
+    "rights": "Tutti i diritti riservati."
+  }
+} 

@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "exposure": "Exposure Control",
+    "suspicion": "Suspicion Declaration",
+    "training": "Training",
+    "signature": "Electronic Signature",
+    "beneficiary": "Beneficial Owner",
+    "users": "Users",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "search": {
+    "placeholder": "Search...",
+    "label": "Search"
+  },
+  "language": {
+    "change": "Change language"
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "notifications": {
+    "label": "Notifications"
+  },
+  "profile": {
+    "my": "My profile"
+  },
+  "settings": {
+    "label": "Settings"
+  },
+  "auth": {
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "stats": {
+      "active_cases": "Active cases",
+      "exposure_checks": "Exposure checks",
+      "suspicion_reports": "Suspicion reports",
+      "signed_documents": "Signed documents"
+    }
+  },
+  "exposure": {
+    "title": "Exposure Control",
+    "new_search": "New search",
+    "history": "Search history",
+    "databases": "Consulted databases"
+  },
+  "suspicion": {
+    "title": "Suspicion Declaration",
+    "new_report": "New report",
+    "history": "Report history"
+  },
+  "training": {
+    "title": "Training",
+    "videos": "Training videos",
+    "certificates": "Certificates"
+  },
+  "signature": {
+    "title": "Electronic Signature",
+    "upload": "Upload a document",
+    "history": "Signature history"
+  },
+  "beneficiary": {
+    "title": "Beneficial Owner",
+    "new_search": "New search",
+    "history": "Search history"
+  },
+  "users": {
+    "title": "User Management",
+    "invite": "Invite user",
+    "roles": {
+      "admin": "Administrator",
+      "manager": "Manager",
+      "viewer": "Viewer"
+    }
+  },
+  "reports": {
+    "title": "Reports",
+    "generate": "Generate report",
+    "history": "Report history"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "upload": "Upload",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading..."
+  }
+}

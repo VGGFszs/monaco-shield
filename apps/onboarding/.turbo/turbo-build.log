@@ -1,0 +1,23 @@
+
+> @monaco-shield/onboarding@0.1.0 build /Users/vincentfabie/Downloads/monaco-shield/apps/onboarding
+> next build
+
+  [1m[38;2;173;127;168m ▲ Next.js 14.1.0[39m[22m
+
+ [37m[1m [22m[39m Creating an optimized production build ...
+ [32m[1m✓[22m[39m Compiled successfully
+[?25l [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m
+ [37m[1m [22m[39m We detected TypeScript in your project and created a [36mtsconfig.json[39m file for you.
+[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m...[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m...[39m[31mFailed to compile.
+[39m
+[36m./src/app/page.tsx[39m:[33m5[39m:[33m30[39m
+[31m[1mType error[22m[39m: Cannot find module '@/components/RegistrationForm' or its corresponding type declarations.
+
+[0m [90m 3 |[39m [36mimport[39m [33mReact[39m[33m,[39m { useState } [36mfrom[39m [32m'react'[39m[33m;[39m[0m
+[0m [90m 4 |[39m [36mimport[39m { useTranslation } [36mfrom[39m [32m'next-i18next'[39m[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m [33mRegistrationForm[39m [36mfrom[39m [32m'@/components/RegistrationForm'[39m[33m;[39m[0m
+[0m [90m   |[39m                              [31m[1m^[22m[39m[0m
+[0m [90m 6 |[39m [36mimport[39m [33mSubscriptionPlans[39m [36mfrom[39m [32m'@/components/SubscriptionPlans'[39m[33m;[39m[0m
+[0m [90m 7 |[39m [36mimport[39m [33mPaymentForm[39m [36mfrom[39m [32m'@/components/PaymentForm'[39m[33m;[39m[0m
+[0m [90m 8 |[39m[0m
+[?25h[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m

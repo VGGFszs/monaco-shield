@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "dashboard": "Cruscotto",
+    "exposure": "Controllo dell'esposizione",
+    "suspicion": "Dichiarazione di sospetto",
+    "training": "Formazione",
+    "signature": "Firma elettronica",
+    "beneficiary": "Titolare effettivo",
+    "users": "Utenti",
+    "reports": "Rapporti",
+    "settings": "Impostazioni"
+  },
+  "search": {
+    "placeholder": "Cerca...",
+    "label": "Cerca"
+  },
+  "language": {
+    "change": "Cambia lingua"
+  },
+  "theme": {
+    "toggle": "Cambia tema"
+  },
+  "notifications": {
+    "label": "Notifiche"
+  },
+  "profile": {
+    "my": "Il mio profilo"
+  },
+  "settings": {
+    "label": "Impostazioni"
+  },
+  "auth": {
+    "logout": "Disconnetti"
+  },
+  "dashboard": {
+    "title": "Cruscotto",
+    "stats": {
+      "active_cases": "Casi attivi",
+      "exposure_checks": "Controlli di esposizione",
+      "suspicion_reports": "Dichiarazioni di sospetto",
+      "signed_documents": "Documenti firmati"
+    }
+  },
+  "exposure": {
+    "title": "Controllo dell'esposizione",
+    "new_search": "Nuova ricerca",
+    "history": "Cronologia delle ricerche",
+    "databases": "Database consultati"
+  },
+  "suspicion": {
+    "title": "Dichiarazione di sospetto",
+    "new_report": "Nuova dichiarazione",
+    "history": "Cronologia delle dichiarazioni"
+  },
+  "training": {
+    "title": "Formazione",
+    "videos": "Video di formazione",
+    "certificates": "Certificati"
+  },
+  "signature": {
+    "title": "Firma elettronica",
+    "upload": "Carica un documento",
+    "history": "Cronologia delle firme"
+  },
+  "beneficiary": {
+    "title": "Titolare effettivo",
+    "new_search": "Nuova ricerca",
+    "history": "Cronologia delle ricerche"
+  },
+  "users": {
+    "title": "Gestione degli utenti",
+    "invite": "Invita utente",
+    "roles": {
+      "admin": "Amministratore",
+      "manager": "Gestore",
+      "viewer": "Visualizzatore"
+    }
+  },
+  "reports": {
+    "title": "Rapporti",
+    "generate": "Genera rapporto",
+    "history": "Cronologia dei rapporti"
+  },
+  "common": {
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "edit": "Modifica",
+    "view": "Visualizza",
+    "download": "Scarica",
+    "search": "Cerca",
+    "filter": "Filtra",
+    "sort": "Ordina",
+    "export": "Esporta",
+    "import": "Importa",
+    "upload": "Carica",
+    "submit": "Invia",
+    "confirm": "Conferma",
+    "back": "Indietro",
+    "next": "Avanti",
+    "previous": "Precedente",
+    "loading": "Caricamento..."
+  }
+}

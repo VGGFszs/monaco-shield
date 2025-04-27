@@ -1,0 +1,9 @@
+
+> @monaco-shield/web@0.1.0 build /Users/vincentfabie/Downloads/monaco-shield/apps/web
+> next build
+
+  [1m[38;2;173;127;168m ▲ Next.js 14.1.0[39m[22m
+
+[?25l [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m...[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[2K[1G[?25h [37m[1m [22m[39m Linting and checking validity of types     [32m[1m✓[22m[39m Linting and checking validity of types 
+ [37m[1m [22m[39m Creating an optimized production build ...
+[?25h

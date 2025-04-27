@@ -1,0 +1,19 @@
+{
+  "dashboard": {
+    "welcome": "Bienvenue sur le Tableau de Bord MonacoShield",
+    "description": "Surveillez et gérez vos opérations de sécurité depuis un emplacement central.",
+    "stats": {
+      "title": "Statistiques",
+      "description": "Consultez vos métriques de sécurité et indicateurs de performance"
+    },
+    "activities": {
+      "title": "Activités Récentes",
+      "description": "Suivez les derniers événements et actions de sécurité"
+    },
+    "alerts": {
+      "title": "Alertes de Sécurité",
+      "description": "Restez informé des menaces de sécurité potentielles"
+    },
+    "getStarted": "Commencer"
+  }
+} 

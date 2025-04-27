@@ -1,0 +1,104 @@
+{
+  "onboarding": {
+    "title": "Welcome to MonacoShield",
+    "description": "Complete your registration and subscription to get started",
+    "steps": {
+      "registration": "Registration",
+      "subscription": "Subscription",
+      "payment": "Payment"
+    },
+    "registration": {
+      "title": "Create your account"
+    },
+    "subscription": {
+      "title": "Choose your plan"
+    },
+    "payment": {
+      "title": "Complete your payment"
+    }
+  },
+  "registration": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Continue to Subscription",
+    "errors": {
+      "firstNameRequired": "First name is required",
+      "lastNameRequired": "Last name is required",
+      "emailRequired": "Email is required",
+      "invalidEmail": "Please enter a valid email address",
+      "passwordRequired": "Password is required",
+      "passwordTooShort": "Password must be at least 8 characters",
+      "passwordsDoNotMatch": "Passwords do not match"
+    }
+  },
+  "subscription": {
+    "recommended": "Recommended",
+    "selected": "Selected",
+    "select": "Select Plan",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "features": {
+          "feature1": "Basic AML checks",
+          "feature2": "Up to 5 users",
+          "feature3": "Email support"
+        }
+      },
+      "pro": {
+        "name": "Professional",
+        "features": {
+          "feature1": "Advanced AML checks",
+          "feature2": "Up to 20 users",
+          "feature3": "Priority support",
+          "feature4": "API access"
+        }
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "features": {
+          "feature1": "Full AML suite",
+          "feature2": "Unlimited users",
+          "feature3": "24/7 support",
+          "feature4": "API access",
+          "feature5": "Custom integrations"
+        }
+      }
+    }
+  },
+  "payment": {
+    "orderSummary": "Order Summary",
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder Name",
+    "expiryDate": "Expiry Date (MM/YY)",
+    "cvv": "CVV",
+    "submit": "Complete Registration",
+    "errors": {
+      "invalidCardNumber": "Please enter a valid card number",
+      "required": "This field is required",
+      "invalidExpiryDate": "Please enter a valid expiry date (MM/YY)",
+      "invalidCvv": "Please enter a valid CVV"
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign in to your account",
+    "loginSubtitle": "Don't have an account?",
+    "createAccount": "Create one now",
+    "login": "Sign in",
+    "forgotPassword": "Forgot your password?",
+    "email": "Email address",
+    "password": "Password"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address"
+  },
+  "errors": {
+    "loginFailed": "Failed to sign in. Please check your credentials and try again."
+  },
+  "common": {
+    "loading": "Loading..."
+  }
+} 

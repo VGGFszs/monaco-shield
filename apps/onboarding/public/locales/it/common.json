@@ -1,0 +1,65 @@
+{
+  "onboarding": {
+    "steps": {
+      "registration": "Registrazione",
+      "subscription": "Abbonamento",
+      "payment": "Pagamento"
+    }
+  },
+  "form": {
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Email",
+    "company": "Nome dell'azienda",
+    "password": "Password",
+    "confirmPassword": "Conferma password",
+    "submit": "Continua",
+    "submitting": "Elaborazione in corso..."
+  },
+  "pricing": {
+    "free": {
+      "title": "Gratuito",
+      "description": "Perfetto per le piccole imprese",
+      "price": "0€/mese"
+    },
+    "basic": {
+      "title": "Base",
+      "description": "Per le aziende in crescita",
+      "price": "49€/mese"
+    },
+    "professional": {
+      "title": "Professionale",
+      "description": "Per le aziende consolidate",
+      "price": "99€/mese"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "description": "Per le grandi organizzazioni",
+      "price": "Personalizzato"
+    },
+    "features": {
+      "Basic AML checks": "Controlli AML di base",
+      "Basic e-signature": "Firma elettronica di base",
+      "Basic BE verification": "Verifica BE di base",
+      "Advanced AML checks": "Controlli AML avanzati",
+      "Advanced e-signature": "Firma elettronica avanzata",
+      "Advanced BE verification": "Verifica BE avanzata",
+      "Email support": "Supporto email",
+      "Priority support": "Supporto prioritario",
+      "API access": "Accesso API",
+      "Custom branding": "Personalizzazione del brand",
+      "Dedicated support": "Supporto dedicato",
+      "Custom integration": "Integrazione personalizzata",
+      "SLA guarantee": "Garanzia SLA"
+    },
+    "select": "Seleziona piano",
+    "selected": "Selezionato"
+  },
+  "payment": {
+    "summary": "Riepilogo ordine",
+    "selectedPlan": "Piano selezionato",
+    "price": "Prezzo",
+    "submit": "Completa pagamento",
+    "processing": "Elaborazione pagamento..."
+  }
+} 

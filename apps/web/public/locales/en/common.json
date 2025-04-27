@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "title": "Compliance Made Simple for Monaco Businesses",
+    "subtitle": "Meet your Anti-Money Laundering and electronic signature obligations with our comprehensive platform",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Contact Sales"
+    }
+  },
+  "features": {
+    "title": "Comprehensive Compliance Solutions",
+    "aml": {
+      "title": "AML Compliance",
+      "description": "Automated checks against international sanctions lists and PEP databases"
+    },
+    "signature": {
+      "title": "E-Signature",
+      "description": "Secure electronic signatures compliant with Monaco regulations"
+    },
+    "be": {
+      "title": "Beneficial Ownership",
+      "description": "Streamlined verification and reporting of beneficial owners"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that's right for your business",
+    "cta": "Start Free Trial"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Our team is here to help",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Comprehensive compliance solutions for Monaco-based businesses",
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  }
+} 

@@ -1,0 +1,298 @@
+2025-04-25T14:24:52.236596Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/3.cookie"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie"), AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/2.cookie"), AnchoredSystemPathBuf("apps/web/.turbo")}
+2025-04-25T14:24:52.236608Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:24:53.536808Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:24:53.536829Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:25:09.336404Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/src/types.ts")}
+2025-04-25T14:25:09.336417Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:25:17.937082Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/next.config.js")}
+2025-04-25T14:25:17.937092Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:25:27.437179Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/next.config.js")}
+2025-04-25T14:25:27.437189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:25:27.437203Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:25:35.637467Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/6.cookie"), AnchoredSystemPathBuf(".turbo/cookies/4.cookie"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/5.cookie")}
+2025-04-25T14:25:35.637480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:25:36.038022Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:25:36.038029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:25:55.037870Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/tsconfig.json")}
+2025-04-25T14:25:55.037883Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:26:05.037494Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T14:26:05.037506Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:26:17.537910Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/src/constants.ts")}
+2025-04-25T14:26:17.537924Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:26:29.837953Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/package.json")}
+2025-04-25T14:26:29.837962Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:26:38.538289Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_37369_6d0049feb64c25a70d62573bb018032d"), AnchoredSystemPathBuf("")}
+2025-04-25T14:26:38.538300Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:26:40.038246Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml.4027365647"), AnchoredSystemPathBuf("pnpm-lock.yaml")}
+2025-04-25T14:26:40.038258Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:26:40.737701Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/7.cookie"), AnchoredSystemPathBuf(".turbo/cookies/8.cookie"), AnchoredSystemPathBuf(".turbo/cookies/9.cookie"), AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log")}
+2025-04-25T14:26:40.737710Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:26:41.237973Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log")}
+2025-04-25T14:26:41.237981Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:26:41.338010Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:26:41.338020Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:27:03.438280Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/src/index.ts")}
+2025-04-25T14:27:03.438297Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:27:13.038748Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/12.cookie"), AnchoredSystemPathBuf(".turbo/cookies/11.cookie"), AnchoredSystemPathBuf(".turbo/cookies/10.cookie")}
+2025-04-25T14:27:13.038756Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:27:13.438055Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:27:13.438064Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:27:17.638850Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/tsconfig.json")}
+2025-04-25T14:27:17.638865Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:27:23.338328Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/package.json")}
+2025-04-25T14:27:23.338342Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:27:29.938333Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T14:27:29.938343Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:27:36.838927Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T14:27:36.838945Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:27:40.437248Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/13.cookie")}
+2025-04-25T14:27:40.437256Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:40.538959Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/15.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log"), AnchoredSystemPathBuf("packages/ui/.turbo"), AnchoredSystemPathBuf("packages/config/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/14.cookie")}
+2025-04-25T14:27:40.538972Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }, WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:41.238112Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/16.cookie")}
+2025-04-25T14:27:41.238122Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:27:41.338501Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log")}
+2025-04-25T14:27:41.338509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:27:47.638986Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T14:27:47.639024Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:27:50.937996Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_37634_cfa8bb3e9734d12a3c021f1c7e070f31")}
+2025-04-25T14:27:50.938005Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:51.538383Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.3977438241")}
+2025-04-25T14:27:51.538391Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:52.238640Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/17.cookie"), AnchoredSystemPathBuf(".turbo/cookies/18.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/19.cookie")}
+2025-04-25T14:27:52.238649Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:27:52.838229Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/20.cookie")}
+2025-04-25T14:27:52.838237Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:52.938605Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("packages/config/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/21.cookie"), AnchoredSystemPathBuf(".turbo/cookies/22.cookie"), AnchoredSystemPathBuf(".turbo/cookies/23.cookie"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:27:52.938615Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:27:53.439233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log")}
+2025-04-25T14:27:53.439241Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:27:53.538969Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:27:53.538990Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:27:57.539223Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/next.config.js")}
+2025-04-25T14:27:57.539233Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:28:03.939442Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/next.config.js")}
+2025-04-25T14:28:03.939452Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:07.538459Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/config/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/24.cookie"), AnchoredSystemPathBuf(".turbo/cookies/26.cookie"), AnchoredSystemPathBuf("packages/config/.turbo"), AnchoredSystemPathBuf(".turbo/cookies/27.cookie"), AnchoredSystemPathBuf(".turbo/cookies/25.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log")}
+2025-04-25T14:28:07.538468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/config"), path: AnchoredSystemPathBuf("packages/config") }}))
+2025-04-25T14:28:07.538490Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:28:07.938984Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/28.cookie"), AnchoredSystemPathBuf(".turbo/cookies/30.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/29.cookie")}
+2025-04-25T14:28:07.938992Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T14:28:08.039121Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log")}
+2025-04-25T14:28:08.039130Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:28:08.438578Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.next")}
+2025-04-25T14:28:08.438586Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:08.438597Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:28:08.839066Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:28:08.839080Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:13.238899Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/next.config.js")}
+2025-04-25T14:28:13.238908Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:28:18.238900Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/next.config.js")}
+2025-04-25T14:28:18.238950Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:23.038547Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/app/layout.tsx"), AnchoredSystemPathBuf("apps/onboarding/app")}
+2025-04-25T14:28:23.038564Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:24.739469Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/app/layout.tsx")}
+2025-04-25T14:28:24.739478Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:31.039718Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/app/layout.tsx")}
+2025-04-25T14:28:31.039735Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:35.338498Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/app/globals.css")}
+2025-04-25T14:28:35.338517Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:36.939208Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/app/globals.css")}
+2025-04-25T14:28:36.939223Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:40.739500Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/36.cookie"), AnchoredSystemPathBuf(".turbo/cookies/34.cookie"), AnchoredSystemPathBuf("packages/ui/.turbo"), AnchoredSystemPathBuf("packages/ui/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf(".turbo/cookies/31.cookie"), AnchoredSystemPathBuf(".turbo/cookies/33.cookie"), AnchoredSystemPathBuf(".turbo/cookies/32.cookie"), AnchoredSystemPathBuf(".turbo/cookies/35.cookie")}
+2025-04-25T14:28:40.739509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T14:28:40.739536Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:28:41.739662Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.next")}
+2025-04-25T14:28:41.739679Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-04-25T14:28:41.739693Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:28:43.439733Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tsconfig.json")}
+2025-04-25T14:28:43.439742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:44.439936Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/.turbo/turbo-build.log"), AnchoredSystemPathBuf("apps/onboarding/.turbo/turbo-build.log")}
+2025-04-25T14:28:44.439951Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/web"), path: AnchoredSystemPathBuf("apps/web") }, WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:51.739188Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tsconfig.json")}
+2025-04-25T14:28:51.739205Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:28:55.438600Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/app/globals.css"), AnchoredSystemPathBuf("apps/onboarding/app/globals.css"), AnchoredSystemPathBuf("apps/onboarding/app/layout.tsx"), AnchoredSystemPathBuf("apps/onboarding/src/app/layout.tsx")}
+2025-04-25T14:28:55.438611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:29:11.739634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T14:29:11.739647Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:29:27.940282Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/SubscriptionPlans.tsx")}
+2025-04-25T14:29:27.940296Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:29:40.140276Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/PaymentForm.tsx")}
+2025-04-25T14:29:40.140294Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:29:53.239006Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/app/page.tsx")}
+2025-04-25T14:29:53.239014Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:30:19.140354Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T14:30:19.140365Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:30:36.940207Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/SubscriptionPlans.tsx")}
+2025-04-25T14:30:36.940215Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:30:36.940229Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:30:37.040450Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/SubscriptionPlans.tsx")}
+2025-04-25T14:30:37.040466Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T14:30:37.040488Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T14:31:01.940998Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/PaymentForm.tsx")}
+2025-04-25T14:31:01.941008Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:21:13.075732Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/OnboardingFlow.tsx")}
+2025-04-25T17:21:13.075742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:21:17.575166Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/OnboardingFlow.tsx")}
+2025-04-25T17:21:17.575178Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:21:54.575918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T17:21:54.575929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:22:23.476366Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/SubscriptionPlans.tsx")}
+2025-04-25T17:22:23.476389Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:22:47.175892Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/PaymentForm.tsx")}
+2025-04-25T17:22:47.175909Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:22:47.175932Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:22:53.376080Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/app/page.tsx")}
+2025-04-25T17:22:53.376097Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:22:59.475588Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/app/layout.tsx")}
+2025-04-25T17:22:59.475598Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:04.675861Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/styles"), AnchoredSystemPathBuf("apps/onboarding/src/styles/globals.css")}
+2025-04-25T17:23:04.675869Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:05.875746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/styles/globals.css")}
+2025-04-25T17:23:05.875761Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:10.576209Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tailwind.config.js")}
+2025-04-25T17:23:10.576224Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:11.776233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tailwind.config.js")}
+2025-04-25T17:23:11.776252Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:15.575264Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/postcss.config.js")}
+2025-04-25T17:23:15.575271Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:17.176592Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/postcss.config.js")}
+2025-04-25T17:23:17.176605Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:23:27.675862Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/public/locales/en/common.json")}
+2025-04-25T17:23:27.675875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:31:04.776986Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_38642_53c54a7dec77c4a2cd0a9233e9cde575")}
+2025-04-25T17:31:04.776997Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T17:49:18.725394Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/package.json")}
+2025-04-25T17:49:18.725415Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:49:28.925339Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:49:28.925373Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:49:28.925398Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:49:32.026014Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/packages/ui"), AnchoredSystemPathBuf("apps/onboarding/packages/ui/src"), AnchoredSystemPathBuf("apps/onboarding/packages")}
+2025-04-25T17:49:32.026024Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:49:32.026039Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:49:39.325794Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:49:39.325806Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:49:39.325820Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:49:49.625235Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/packages/ui/package.json")}
+2025-04-25T17:49:49.625245Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:49:59.525454Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:49:59.525474Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:49:59.525494Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:50:22.924619Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/packages/ui/package.json")}
+2025-04-25T17:50:22.924634Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:50:33.524621Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T17:50:33.524630Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:50:46.225186Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-04-25T17:50:46.225196Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T17:50:47.424835Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-04-25T17:50:47.424846Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T17:50:56.423962Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/index.ts")}
+2025-04-25T17:50:56.423972Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:51:05.025248Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/utils"), AnchoredSystemPathBuf("packages/ui/src/utils/cn.ts")}
+2025-04-25T17:51:05.025267Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:51:07.024153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/utils/cn.ts")}
+2025-04-25T17:51:07.024164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:51:27.824970Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/components/Button.tsx")}
+2025-04-25T17:51:27.824987Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:51:40.924058Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/components/Input.tsx")}
+2025-04-25T17:51:40.924068Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:51:42.123519Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/components/Input.tsx")}
+2025-04-25T17:51:42.123532Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:52:02.423528Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/components/Card.tsx")}
+2025-04-25T17:52:02.423539Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:52:03.823841Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/components/Card.tsx")}
+2025-04-25T17:52:03.823854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:52:54.524208Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T17:52:54.524218Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:53:03.924194Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/index.ts")}
+2025-04-25T17:53:03.924211Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:53:03.924232Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:53:20.623065Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:53:20.623075Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:53:41.523698Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-04-25T17:53:41.523708Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-04-25T17:53:45.523345Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/packages/ui/package-lock.json")}
+2025-04-25T17:53:45.523352Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:53:58.523107Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T17:53:58.523116Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:54:50.323343Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:54:50.323355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:55:02.621938Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T17:55:02.621947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:55:26.323059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/package.json")}
+2025-04-25T17:55:26.323075Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:55:49.321968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/package.json")}
+2025-04-25T17:55:49.321979Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:55:57.122523Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/ui")}
+2025-04-25T17:55:57.122538Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:55:57.122557Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:56:17.422239Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tsconfig.json")}
+2025-04-25T17:56:17.422247Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:56:17.521657Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tsconfig.json")}
+2025-04-25T17:56:17.521677Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:56:17.521703Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:56:23.321535Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T17:56:23.321546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:56:51.821259Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/src/components/RegistrationForm.tsx")}
+2025-04-25T17:56:51.821272Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:56:56.121861Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-04-25T17:56:56.121876Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-25T17:57:01.221659Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-04-25T17:57:01.221667Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-25T17:57:14.921890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package.json")}
+2025-04-25T17:57:14.921903Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:57:24.820326Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/package.json")}
+2025-04-25T17:57:24.820356Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T17:57:24.820380Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T17:57:33.220483Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-04-25T17:57:33.220495Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-25T17:57:37.420596Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/package-lock.json")}
+2025-04-25T17:57:37.420615Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T17:57:58.221782Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-04-25T17:57:58.221791Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-04-25T17:57:58.323185Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-04-25T17:57:58.323192Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-04-25T17:58:20.121966Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-04-25T17:58:20.121974Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-04-25T17:58:20.220565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/package-lock.json")}
+2025-04-25T17:58:20.220574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T18:13:07.555539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tsconfig.json")}
+2025-04-25T18:13:07.555547Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T18:13:13.154982Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/tsconfig.json")}
+2025-04-25T18:13:13.154989Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T18:13:20.255498Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/onboarding/tsconfig.json")}
+2025-04-25T18:13:20.255513Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/onboarding"), path: AnchoredSystemPathBuf("apps/onboarding") }}))
+2025-04-25T18:13:24.756216Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/src/index.ts")}
+2025-04-25T18:13:24.756237Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T18:13:24.756267Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T19:35:54.350238Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/ui/config"), AnchoredSystemPathBuf("packages/ui/config/env")}
+2025-04-25T19:35:54.350253Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@monaco-shield/ui"), path: AnchoredSystemPathBuf("packages/ui") }}))
+2025-04-25T19:35:54.350270Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-25T19:36:00.750540Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env"), AnchoredSystemPathBuf("config/env/root.env.example"), AnchoredSystemPathBuf("config")}
+2025-04-25T19:36:00.750553Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:02.050775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/root.env.example")}
+2025-04-25T19:36:02.050792Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:08.549319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/onboarding.env.example")}
+2025-04-25T19:36:08.549331Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:10.450263Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/onboarding.env.example")}
+2025-04-25T19:36:10.450275Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:15.751003Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/web.env.example")}
+2025-04-25T19:36:15.751018Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:17.149944Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/web.env.example")}
+2025-04-25T19:36:17.149963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:23.350127Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/dashboard.env.example")}
+2025-04-25T19:36:23.350144Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:25.050135Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/dashboard.env.example")}
+2025-04-25T19:36:25.050146Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:33.050100Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/api.env.example")}
+2025-04-25T19:36:33.050121Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:34.450643Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("config/env/api.env.example")}
+2025-04-25T19:36:34.450657Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:42.749994Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("scripts/setup-env.sh"), AnchoredSystemPathBuf("scripts")}
+2025-04-25T19:36:42.750013Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:44.050107Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("scripts/setup-env.sh")}
+2025-04-25T19:36:44.050119Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:36:48.950495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("scripts/setup-env.sh")}
+2025-04-25T19:36:48.950509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-25T19:37:04.549890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2025-04-25T19:37:04.549903Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

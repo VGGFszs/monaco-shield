@@ -1,0 +1,84 @@
+{
+  "onboarding": {
+    "steps": {
+      "registration": "Inscription",
+      "subscription": "Abonnement",
+      "payment": "Paiement"
+    }
+  },
+  "form": {
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "company": "Nom de l'entreprise",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "submit": "Continuer",
+    "submitting": "Traitement en cours..."
+  },
+  "pricing": {
+    "free": {
+      "title": "Gratuit",
+      "description": "Parfait pour les petites entreprises",
+      "price": "0€/mois"
+    },
+    "basic": {
+      "title": "Basique",
+      "description": "Pour les entreprises en croissance",
+      "price": "49€/mois"
+    },
+    "professional": {
+      "title": "Professionnel",
+      "description": "Pour les entreprises établies",
+      "price": "99€/mois"
+    },
+    "enterprise": {
+      "title": "Entreprise",
+      "description": "Pour les grandes organisations",
+      "price": "Sur mesure"
+    },
+    "features": {
+      "Basic AML checks": "Vérifications AML de base",
+      "Basic e-signature": "Signature électronique de base",
+      "Basic BE verification": "Vérification BE de base",
+      "Advanced AML checks": "Vérifications AML avancées",
+      "Advanced e-signature": "Signature électronique avancée",
+      "Advanced BE verification": "Vérification BE avancée",
+      "Email support": "Support par email",
+      "Priority support": "Support prioritaire",
+      "API access": "Accès API",
+      "Custom branding": "Personnalisation de la marque",
+      "Dedicated support": "Support dédié",
+      "Custom integration": "Intégration personnalisée",
+      "SLA guarantee": "Garantie SLA"
+    },
+    "select": "Choisir le forfait",
+    "selected": "Sélectionné"
+  },
+  "payment": {
+    "summary": "Récapitulatif de la commande",
+    "selectedPlan": "Forfait sélectionné",
+    "price": "Prix",
+    "submit": "Finaliser le paiement",
+    "processing": "Traitement du paiement..."
+  },
+  "auth": {
+    "loginTitle": "Connectez-vous à votre compte",
+    "loginSubtitle": "Vous n'avez pas de compte ?",
+    "createAccount": "Créez-en un maintenant",
+    "login": "Se connecter",
+    "forgotPassword": "Mot de passe oublié ?",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe"
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Veuillez entrer une adresse e-mail valide"
+  },
+  "errors": {
+    "loginFailed": "Échec de la connexion. Veuillez vérifier vos identifiants et réessayer."
+  },
+  "common": {
+    "loading": "Chargement..."
+  }
+} 

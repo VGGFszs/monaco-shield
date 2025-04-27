@@ -1,0 +1,19 @@
+{
+  "dashboard": {
+    "welcome": "Welcome to MonacoShield Dashboard",
+    "description": "Monitor and manage your security operations from one central location.",
+    "stats": {
+      "title": "Statistics",
+      "description": "View your security metrics and performance indicators"
+    },
+    "activities": {
+      "title": "Recent Activities",
+      "description": "Track the latest security events and actions"
+    },
+    "alerts": {
+      "title": "Security Alerts",
+      "description": "Stay informed about potential security threats"
+    },
+    "getStarted": "Get Started"
+  }
+} 
