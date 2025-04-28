@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev:all": "concurrently -n onboarding,dashboard,web,api -c blue,green,magenta,cyan \"npm run dev --workspace=@monaco-shield/onboarding\" \"npm run dev --workspace=@monaco-shield/dashboard\" \"npm run dev --workspace=@monaco-shield/web\" \"npm run dev --workspace=@monaco-shield/api\"",
-    "build": "turbo run build",
-    "lint": "turbo run lint",
-    "clean": "turbo run clean"
+    "dev:all": "concurrently -n onboarding,dashboard,web,api -c blue,green,magenta,cyan \"npm run dev --workspace=@monaco-shield/onboarding\" \"npm run dev --workspace=@monaco-shield/dashboard\" \"npm run dev --workspace=@monaco-shield/web\" \"npm run dev --workspace=@monaco-shield/api\""
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
